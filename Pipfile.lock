@@ -48,14 +48,6 @@
             "index": "pypi",
             "version": "==1.6.0"
         },
-        "black": {
-            "hashes": [
-                "sha256:6eb7448da9143ee65b856a5f3676b7dda98ad9abe0f87fce8c59291f15e82a5b",
-                "sha256:a9952229092e325fe5f3dae56d81f639b23f7131eb840781947e4b2886030f33"
-            ],
-            "index": "pypi",
-            "version": "==21.10b0"
-        },
         "click": {
             "hashes": [
                 "sha256:353f466495adaeb40b6b5f592f9f91cb22372351c84caeb068132442a4518ef3",

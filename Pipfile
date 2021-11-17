@@ -8,7 +8,6 @@ pyeda = "*"
 logicmin = "*"
 
 [dev-packages]
-black = "*"
 autopep8 = "*"
 
 [requires]
